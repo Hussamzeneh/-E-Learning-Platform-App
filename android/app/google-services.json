@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "813859863466",
+    "firebase_url": "https://edusphere-3d0b0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "edusphere-3d0b0",
+    "storage_bucket": "edusphere-3d0b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813859863466:android:aa89825570f5c5ebc2c9d3",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4SzPqD0NAKYxV_PXZMCNIF-OaFE0r6Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
